@@ -22,9 +22,7 @@ The application is developed using Object-Oriented Programming principles and ru
 - Git & GitHub
 
 ### Project Structure
-src/
-|_____JavaProject/
-|_____ATMInterface.java
+src/JavaProject/ATMInterface.java
 
 ### How to Run the Project
 1. Clone the repository from GitHub
